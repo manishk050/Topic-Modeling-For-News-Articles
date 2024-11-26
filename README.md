@@ -5,12 +5,12 @@ Welcome to the **Topic Modeling for News Articles** project! This repository con
 
 ## 🚀 Project Overview
 
-This project leverages Natural Language Processing (NLP) and unsupervised machine learning techniques to automatically discover topics within a large set of news articles. The key focus is on using the Latent Dirichlet Allocation (LDA) algorithm for topic modeling.
+This project analyzes news articles by applying clustering techniques to group similar articles based on their content. It processes the text data, filters articles by date, and uses K-means clustering to identify patterns within the articles.
 
 ### Key Components
 
 - **Data Preprocessing**: Cleaning and preparing the text data for analysis.
-- **LDA Topic Modeling**: Implementing the LDA algorithm to identify topics.
+- **Cosine Similarity**: Implementing the Cosine Similarity to identify topics.
 - **Visualization**: Presenting the results through clear and informative visualizations.
 
 ## 🗂️ Repository Structure
